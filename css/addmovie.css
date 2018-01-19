@@ -59,5 +59,17 @@ header{
   margin-left: 200px;
   background-color: orange;
   color: white;
-  
+  text-align: center;
+  width: 60px;
+}
+.divide{
+  display: inline-block;
+  width: 50%;
+  padding-left: 10px;
+}
+.divide lang{
+  padding-left: 0;
+}
+form{
+  white-space: nowrap;
 }
