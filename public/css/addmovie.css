@@ -1,0 +1,75 @@
+.logo{
+  width:200px;
+}
+.logoo{
+  width:50px;
+}
+.fleft{
+  float:left;
+}
+.fright{
+  float:right;
+}
+.clearfix{
+  clear:both;
+}
+body{
+  font-family:'Lato',sans-serif;
+  background-color:#442048;
+  color:white;
+}
+header ul li{
+  display:inline-block;
+}
+header ul li a{
+  color:#FFCB59;
+  text-decoration: none;
+  font-size:13px;
+}
+.distance{
+  width:500px;
+  margin: 0 auto;
+}
+.distance h2{
+  font-size:28px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+header{
+  padding:40px;
+  height:40px;
+}
+.distance label,.distance input{
+  display:block;
+}
+.distance input,.distance textarea,.distance select{
+  background-color:#442048;
+  width:100%;
+  border:1px solid white;
+  margin:7px 0 15px;
+  color:white;
+  padding:0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.distance input{
+  height:40px;
+}
+.buttonstyle{
+  margin-left: 200px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+  width: 60px;
+}
+.divide{
+  display: inline-block;
+  width: 50%;
+  padding-left: 10px;
+}
+.divide lang{
+  padding-left: 0;
+}
+form{
+  white-space: nowrap;
+}
